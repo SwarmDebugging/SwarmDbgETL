@@ -1,0 +1,1107 @@
+﻿{
+  "Label": "TODO",
+  "Description": "TODO",
+  "Purpose": "TODO",
+  "Started": "2017-11-27T17:01:33.6398708-02:00",
+  "Finished": "2017-11-27T17:03:39.108315-02:00",
+  "Breakpoints": [
+    {
+      "BreakpointKind": "Line",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "LineNumber": 37,
+      "LineOfCode": "{",
+      "Origin": "AddedDuringDebug",
+      "Created": "2017-11-27T17:02:01.9020128-02:00"
+    },
+    {
+      "BreakpointKind": "Line",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "LineNumber": 37,
+      "LineOfCode": "{",
+      "Origin": "AddedBeforeDebug",
+      "Created": "2017-11-27T17:02:13.3800929-02:00"
+    }
+  ],
+  "Events": [
+    {
+      "EventKind": "BreakpointAdd",
+      "Detail": "EnviarEmailController.cs, line 37 character 9",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post(CreateEmailModel model)",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post(CreateEmailModel model)",
+      "CharStart": 9,
+      "CharEnd": 10,
+      "LineNumber": 37,
+      "LineOfCode": "{",
+      "Created": "2017-11-27T17:02:01.8940123-02:00"
+    },
+    {
+      "EventKind": "BreakpointHitted",
+      "Detail": "EnviarEmailController.cs, line 37 character 9",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 9,
+      "CharEnd": 9,
+      "LineNumber": 37,
+      "LineOfCode": "{",
+      "Created": "2017-11-27T17:02:08.4251341-02:00"
+    },
+    {
+      "EventKind": "BreakpointAdd",
+      "Detail": "EnviarEmailController.cs, line 37 character 9",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post(CreateEmailModel model)",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post(CreateEmailModel model)",
+      "CharStart": 9,
+      "CharEnd": 10,
+      "LineNumber": 37,
+      "LineOfCode": "{",
+      "Created": "2017-11-27T17:02:13.3800929-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 101,
+      "LineNumber": 39,
+      "LineOfCode": "var usuarios = new List<string>() {{\"abelL@sefaz.rs.gov.br\"},{\"heberM@sefaz.rs.gov.br\"}};",
+      "Created": "2017-11-27T17:02:13.6281317-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 36,
+      "LineNumber": 41,
+      "LineOfCode": "string emailList = null;",
+      "Created": "2017-11-27T17:02:14.6901009-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:15.2841067-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 34,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:15.8831099-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 31,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:16.5191136-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 22,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:17.1491188-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 13,
+      "LineNumber": 44,
+      "LineOfCode": "{",
+      "Created": "2017-11-27T17:02:17.8081225-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 17,
+      "CharEnd": 53,
+      "LineNumber": 45,
+      "LineOfCode": "if(_ServicoEmailHelper.IsValid(item))",
+      "Created": "2017-11-27T17:02:18.4121275-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 21,
+      "CharEnd": 87,
+      "LineNumber": 46,
+      "LineOfCode": "emailList += (emailList == null ) ? item : emailList + \"; \" + item;",
+      "Created": "2017-11-27T17:02:19.0481318-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 25,
+      "LineNumber": 47,
+      "LineOfCode": "}",
+      "Created": "2017-11-27T17:02:19.6811367-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 31,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:20.2911409-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 22,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:20.9571454-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 13,
+      "LineNumber": 44,
+      "LineOfCode": "{",
+      "Created": "2017-11-27T17:02:21.5831495-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 17,
+      "CharEnd": 53,
+      "LineNumber": 45,
+      "LineOfCode": "if(_ServicoEmailHelper.IsValid(item))",
+      "Created": "2017-11-27T17:02:22.2041529-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 21,
+      "CharEnd": 87,
+      "LineNumber": 46,
+      "LineOfCode": "emailList += (emailList == null ) ? item : emailList + \"; \" + item;",
+      "Created": "2017-11-27T17:02:23.87522-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 25,
+      "LineNumber": 47,
+      "LineOfCode": "}",
+      "Created": "2017-11-27T17:02:25.2192019-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 31,
+      "CharEnd": 42,
+      "LineNumber": 43,
+      "LineOfCode": "foreach (var item in usuarios)",
+      "Created": "2017-11-27T17:02:26.3972351-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 33,
+      "LineNumber": 48,
+      "LineOfCode": "var response  = \"ok\";",
+      "Created": "2017-11-27T17:02:27.5022431-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "TypeFullPath": "TODO",
+      "Method": "Post",
+      "MethodKey": "",
+      "MethodSignature": "Controllers.EnviarEmailController.Post",
+      "CharStart": 13,
+      "CharEnd": 107,
+      "LineNumber": 50,
+      "LineOfCode": "await _ServicoEmailHelper.SendMailAsync(emailList, \"Email Test Portal Legislação\", model.Body);",
+      "Created": "2017-11-27T17:02:29.3302031-02:00"
+    },
+    {
+      "EventKind": "StepInto",
+      "Detail": "TODO",
+      "Namespace": "Services",
+      "Type": "ServicoEmailHelper",
+      "TypeFullPath": "TODO",
+      "Method": "SendMailAsync",
+      "MethodKey": "",
+      "MethodSignature": "Services.ServicoEmailHelper.SendMailAsync",
+      "CharStart": 9,
+      "CharEnd": 9,
+      "LineNumber": 63,
+      "LineOfCode": "{",
+      "Created": "2017-11-27T17:02:36.5542542-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Services",
+      "Type": "ServicoEmailHelper",
+      "TypeFullPath": "TODO",
+      "Method": "SendMailAsync",
+      "MethodKey": "",
+      "MethodSignature": "Services.ServicoEmailHelper.SendMailAsync",
+      "CharStart": 13,
+      "CharEnd": 35,
+      "LineNumber": 64,
+      "LineOfCode": "if (IsValid(toAddress))",
+      "Created": "2017-11-27T17:02:38.6892685-02:00"
+    },
+    {
+      "EventKind": "StepOver",
+      "Detail": "TODO",
+      "Namespace": "Services",
+      "Type": "ServicoEmailHelper",
+      "TypeFullPath": "TODO",
+      "Method": "SendMailAsync",
+      "MethodKey": "",
+      "MethodSignature": "Services.ServicoEmailHelper.SendMailAsync",
+      "CharStart": 9,
+      "CharEnd": 9,
+      "LineNumber": 81,
+      "LineOfCode": "}",
+      "Created": "2017-11-27T17:02:42.3892927-02:00"
+    }
+  ],
+  "PathNodes": [
+    {
+      "Namespace": "System.Threading",
+      "Type": "ThreadPoolWorkQueue",
+      "Method": "Dispatch",
+      "Parent": null,
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2320629-02:00"
+    },
+    {
+      "Namespace": "System.Threading.Tasks",
+      "Type": "Task",
+      "Method": "ExecuteWithThreadLocal",
+      "Parent": "Dispatch",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2350633-02:00"
+    },
+    {
+      "Namespace": "System.Threading",
+      "Type": "ExecutionContext",
+      "Method": "Run",
+      "Parent": "ExecuteWithThreadLocal",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2360637-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Server.HttpSys",
+      "Type": "MessagePump",
+      "Method": "ProcessRequestAsync",
+      "Parent": "Run",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2370704-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncVoidMethodBuilder.Start<Microsoft.AspNetCore.Server.HttpSys",
+      "Type": "MessagePump",
+      "Method": "<ProcessRequestAsync>d__20>",
+      "Parent": "ProcessRequestAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2370704-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Server.HttpSys",
+      "Type": "MessagePump",
+      "Method": "ProcessRequestAsync",
+      "Parent": "<ProcessRequestAsync>d__20>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2380634-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Server.HttpSys.MessagePump.ApplicationWrapper<Microsoft.AspNetCore.Hosting.Internal.HostingApplication",
+      "Type": "Context>",
+      "Method": "ProcessRequestAsync",
+      "Parent": "ProcessRequestAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2390634-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Hosting.Internal",
+      "Type": "HostingApplication",
+      "Method": "ProcessRequestAsync",
+      "Parent": "ProcessRequestAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2390634-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Hosting.Internal",
+      "Type": "RequestServicesContainerMiddleware",
+      "Method": "Invoke",
+      "Parent": "ProcessRequestAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2400631-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Hosting.Internal",
+      "Type": "RequestServicesContainerMiddleware",
+      "Method": "<Invoke>d__3>",
+      "Parent": "Invoke",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2410852-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Hosting.Internal",
+      "Type": "RequestServicesContainerMiddleware",
+      "Method": "Invoke",
+      "Parent": "<Invoke>d__3>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2450989-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.ResponseCompression",
+      "Type": "ResponseCompressionMiddleware",
+      "Method": "Invoke",
+      "Parent": "Invoke",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2460629-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.ResponseCompression",
+      "Type": "ResponseCompressionMiddleware",
+      "Method": "<Invoke>d__3>",
+      "Parent": "Invoke",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2470636-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.ResponseCompression",
+      "Type": "ResponseCompressionMiddleware",
+      "Method": "Invoke",
+      "Parent": "<Invoke>d__3>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2470636-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Builder.UseExtensions",
+      "Type": "Use",
+      "Method": "AnonymousMethod__1",
+      "Parent": "Invoke",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2480629-02:00"
+    },
+    {
+      "Namespace": "Legislacao.Startup",
+      "Type": "Configure",
+      "Method": "AnonymousMethod__6_0",
+      "Parent": "AnonymousMethod__1",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2490629-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Builder.UseExtensions",
+      "Type": "Use",
+      "Method": "AnonymousMethod__2",
+      "Parent": "AnonymousMethod__6_0",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.250063-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Builder",
+      "Type": "RouterMiddleware",
+      "Method": "Invoke",
+      "Parent": "AnonymousMethod__2",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.250063-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Builder",
+      "Type": "RouterMiddleware",
+      "Method": "<Invoke>d__4>",
+      "Parent": "Invoke",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2510947-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Builder",
+      "Type": "RouterMiddleware",
+      "Method": "Invoke",
+      "Parent": "<Invoke>d__4>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2520637-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal.MvcAttributeRouteHandler",
+      "Type": "RouteAsync",
+      "Method": "AnonymousMethod__0",
+      "Parent": "Invoke",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.253064-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeAsync",
+      "Parent": "AnonymousMethod__0",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2540657-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "<InvokeAsync>d__15>",
+      "Parent": "InvokeAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2540657-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeAsync",
+      "Parent": "<InvokeAsync>d__15>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2550627-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeFilterPipelineAsync",
+      "Parent": "InvokeAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2560637-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "<InvokeFilterPipelineAsync>d__17>",
+      "Parent": "InvokeFilterPipelineAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2570638-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeFilterPipelineAsync",
+      "Parent": "<InvokeFilterPipelineAsync>d__17>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2580908-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "Next",
+      "Parent": "InvokeFilterPipelineAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2580908-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeNextResourceFilter",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2590648-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "<InvokeNextResourceFilter>d__22>",
+      "Parent": "InvokeNextResourceFilter",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2600638-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeNextResourceFilter",
+      "Parent": "<InvokeNextResourceFilter>d__22>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2610638-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "Next",
+      "Parent": "InvokeNextResourceFilter",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2620779-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeNextExceptionFilterAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2630639-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "<InvokeNextExceptionFilterAsync>d__23>",
+      "Parent": "InvokeNextExceptionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2640726-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "InvokeNextExceptionFilterAsync",
+      "Parent": "<InvokeNextExceptionFilterAsync>d__23>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2640726-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ResourceInvoker",
+      "Method": "Next",
+      "Parent": "InvokeNextExceptionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2650642-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeInnerFilterAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2660643-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeInnerFilterAsync>d__14>",
+      "Parent": "InvokeInnerFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.267065-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeInnerFilterAsync",
+      "Parent": "<InvokeInnerFilterAsync>d__14>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2681314-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "Next",
+      "Parent": "InvokeInnerFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2690647-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionFilter",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2700647-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionFilter",
+      "Method": "<OnActionExecutionAsync>d__4>",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2710637-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionFilter",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "<OnActionExecutionAsync>d__4>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2710637-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc",
+      "Type": "Controller",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2720637-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc",
+      "Type": "Controller",
+      "Method": "<OnActionExecutionAsync>d__27>",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2730631-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc",
+      "Type": "Controller",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "<OnActionExecutionAsync>d__27>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2740638-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAwaitedAsync",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2750644-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder<System.__Canon>.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAwaitedAsync>d__11>",
+      "Parent": "InvokeNextActionFilterAwaitedAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2760645-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAwaitedAsync",
+      "Parent": "<InvokeNextActionFilterAwaitedAsync>d__11>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2770638-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "InvokeNextActionFilterAwaitedAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2780638-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAsync>d__10>",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2790639-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "<InvokeNextActionFilterAsync>d__10>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2800949-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "Next",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2810639-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2820639-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAsync>d__10>",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2830639-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "<InvokeNextActionFilterAsync>d__10>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2840653-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "Next",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.285064-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Filters",
+      "Type": "ActionFilterAttribute",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.286064-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Filters",
+      "Type": "ActionFilterAttribute",
+      "Method": "<OnActionExecutionAsync>d__6>",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2870643-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Filters",
+      "Type": "ActionFilterAttribute",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "<OnActionExecutionAsync>d__6>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2880644-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAwaitedAsync",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.289063-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder<System.__Canon>.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAwaitedAsync>d__11>",
+      "Parent": "InvokeNextActionFilterAwaitedAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2900644-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAwaitedAsync",
+      "Parent": "<InvokeNextActionFilterAwaitedAsync>d__11>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2910644-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "InvokeNextActionFilterAwaitedAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2940895-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAsync>d__10>",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2950645-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "<InvokeNextActionFilterAsync>d__10>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2960635-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "Next",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2970645-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Filters",
+      "Type": "ActionFilterAttribute",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2980649-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Filters",
+      "Type": "ActionFilterAttribute",
+      "Method": "<OnActionExecutionAsync>d__6>",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.2990642-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Filters",
+      "Type": "ActionFilterAttribute",
+      "Method": "OnActionExecutionAsync",
+      "Parent": "<OnActionExecutionAsync>d__6>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3000646-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAwaitedAsync",
+      "Parent": "OnActionExecutionAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3010643-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder<System.__Canon>.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAwaitedAsync>d__11>",
+      "Parent": "InvokeNextActionFilterAwaitedAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3020646-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAwaitedAsync",
+      "Parent": "<InvokeNextActionFilterAwaitedAsync>d__11>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.303065-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "InvokeNextActionFilterAwaitedAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3040637-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeNextActionFilterAsync>d__10>",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.305064-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeNextActionFilterAsync",
+      "Parent": "<InvokeNextActionFilterAsync>d__10>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3070637-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "Next",
+      "Parent": "InvokeNextActionFilterAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3080644-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeActionMethodAsync",
+      "Parent": "Next",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3090648-02:00"
+    },
+    {
+      "Namespace": "System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start<Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "<InvokeActionMethodAsync>d__12>",
+      "Parent": "InvokeActionMethodAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3100648-02:00"
+    },
+    {
+      "Namespace": "Microsoft.AspNetCore.Mvc.Internal",
+      "Type": "ControllerActionInvoker",
+      "Method": "InvokeActionMethodAsync",
+      "Parent": "<InvokeActionMethodAsync>d__12>",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3110641-02:00"
+    },
+    {
+      "Namespace": "Microsoft.Extensions.Internal",
+      "Type": "ObjectMethodExecutor",
+      "Method": "ExecuteAsync",
+      "Parent": "InvokeActionMethodAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3120642-02:00"
+    },
+    {
+      "Namespace": "",
+      "Type": "",
+      "Method": "[Lightweight Function]",
+      "Parent": "ExecuteAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:09.3130642-02:00"
+    },
+    {
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "Method": "Post",
+      "Parent": "[Lightweight Function]",
+      "Origin": "Breakpoint",
+      "Created": "2017-11-27T17:02:09.3140642-02:00"
+    },
+    {
+      "Namespace": "",
+      "Type": "",
+      "Method": "[Lightweight Function]",
+      "Parent": "ExecuteAsync",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:37.2182577-02:00"
+    },
+    {
+      "Namespace": "Controllers",
+      "Type": "EnviarEmailController",
+      "Method": "Post",
+      "Parent": "[Lightweight Function]",
+      "Origin": "Trace",
+      "Created": "2017-11-27T17:02:37.220257-02:00"
+    },
+    {
+      "Namespace": "Services",
+      "Type": "ServicoEmailHelper",
+      "Method": "SendMailAsync",
+      "Parent": "Post",
+      "Origin": "StepInto",
+      "Created": "2017-11-27T17:02:37.2212804-02:00"
+    }
+  ],
+  "Task": {
+    "Name": "SmtpTest",
+    "Description": "Crianado unit test smtp cliente",
+    "Action": "NewFeature",
+    "Created": "2017-11-27T16:43:16.6538825-02:00",
+    "Project": {
+      "Name": "Legislacao.sln",
+      "Description": ""
+    }
+  },
+  "Developer": {
+    "Name": "SEFAZRS\\Dev.AbelL"
+  }
+}
